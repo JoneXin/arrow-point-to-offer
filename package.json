@@ -1,0 +1,17 @@
+{
+    "name": "arrow_point_to_offer",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "mocha --recursive  --growl"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "chai": "^4.3.7"
+    }
+}
